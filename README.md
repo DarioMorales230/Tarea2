@@ -6,10 +6,15 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 1.1. Objetivo General.
 
-
+•	Utilizar, implementar e identificar elementos eléctricos o electrónicos en un circuito ya sea en serie, paralelo o mixto y también su análisis correspondiente para saber sus mediciones físicas.
 
 1.2. Objetivos Especificos. 
 
+•	Demostrar la importancia de la Ley de Ohm en los diferentes calculados evitando lo máximo posible los posibles errores de cálculo que podrían tras analizar de manera incorrecta los signos y valores de los ejercicios.
+
+•	Comprobar mediante los ejercicios los fundamentos principales de los circuitos eléctricos demostrando la relación que existe entre la diferencia de potencia (V) aplicada, y la intensidad de corriente (I) que circula a través de un conductor en los diferentes circuitos planteados.
+
+•	Emplear la ley de Ohm para determinar los valores de la resistencia haciendo posible la familiarización de los conceptos básicos relativos a la ley afianzando los conocimientos previos referente a la resolución de ejercicios
 
 
 2. Marco Teorico.
