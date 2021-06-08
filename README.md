@@ -14,6 +14,8 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 2. Marco Teorico.
 
+2.1. Capitulo 3
+![untitled@2x (4) (1)](https://user-images.githubusercontent.com/85144847/121183863-1e738180-c82a-11eb-853d-44250fa2415c.png)
 
 
 3. Explicación y resolución de ejercicios o problemas.
