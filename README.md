@@ -37,7 +37,11 @@ https://www.youtube.com/watch?v=iImAMAZoTpQ
 
 5. Conclusiones.
 
+•	La ley de Ohm es muy importante dentro de los fundamentos eléctricos porque debido al uso del cálculo nos ayudan a conocer valores verdaderos y verificados sin necesidad de una simulación.
 
+•	Al momento de realizar los ejercicios propuestos de cada capítulo pudimos darnos cuenta que si existe una relación de proporcionalidad entre el voltaje y la intensidad y el complemento de las dos magnitudes eléctricas nos da una resistencia adecuada. 
+
+•	Empleando la ley de Ohm en la resolución de ejercicios pudimos darnos cuenta que para ello debemos tener muy en cuenta la respectiva ley de Ohm y conocimientos de notación científica e ingeniería así podremos calcular de mejor manera cada magnitud.
 
 6. Bibliografía.
 
