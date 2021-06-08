@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=iImAMAZoTpQ
 
 
 6. Bibliografía.
+
+Analisis de circuitos - Robbins.pdf
