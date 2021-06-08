@@ -29,6 +29,20 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3. Explicación y resolución de ejercicios o problemas.
 
+![Capitulo 4-01](https://user-images.githubusercontent.com/85144847/121198967-263a2280-c838-11eb-9494-b59a2baccc3b.png)
+![Capitulo 4-02](https://user-images.githubusercontent.com/85144847/121198970-276b4f80-c838-11eb-8334-d34171ada093.png)
+![Capitulo 4-03](https://user-images.githubusercontent.com/85144847/121198975-276b4f80-c838-11eb-84db-94ab5605f317.png)
+![Capitulo 4-04](https://user-images.githubusercontent.com/85144847/121198979-2803e600-c838-11eb-8aaa-c4b906d6b622.png)
+![Capitulo 4-05](https://user-images.githubusercontent.com/85144847/121198980-289c7c80-c838-11eb-8211-02798a92ddb7.png)
+![Capitulo 4-06](https://user-images.githubusercontent.com/85144847/121198984-289c7c80-c838-11eb-8389-eee0787f692e.png)
+![Capitulo 4-07](https://user-images.githubusercontent.com/85144847/121198985-29351300-c838-11eb-9cf9-2332c842e5f7.png)
+![Capitulo 4-08](https://user-images.githubusercontent.com/85144847/121198987-29351300-c838-11eb-89e6-f2db01483579.png)
+![Capitulo 4-09](https://user-images.githubusercontent.com/85144847/121198988-29351300-c838-11eb-8385-178c30623938.png)
+![Capitulo 4-10](https://user-images.githubusercontent.com/85144847/121198990-29cda980-c838-11eb-95bc-ddb844ca2936.png)
+![Capitulo 4-11](https://user-images.githubusercontent.com/85144847/121198991-29cda980-c838-11eb-9541-f193b960d9a2.png)
+![Capitulo 4-12](https://user-images.githubusercontent.com/85144847/121198995-2a664000-c838-11eb-8891-dd03c0020ac0.png)
+![Capitulo 4-13](https://user-images.githubusercontent.com/85144847/121198998-2a664000-c838-11eb-83cb-5847371dcaf6.png)
+![Capitulo 4-14](https://user-images.githubusercontent.com/85144847/121198999-2afed680-c838-11eb-83e1-8fcdb34737c5.png)
 
 
 4. Video de YouTube.
